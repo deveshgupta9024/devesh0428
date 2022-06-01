@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// prime factor
 
 bool isprime(int n){
     bool isprime=true;
