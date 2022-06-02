@@ -12,7 +12,7 @@ bool isprime(int n){
     }
     return isprime;
 }
-
+//HI
 void prime_factors(int n){
     for(int i=2;i<=n;i++){
         if(isprime(i)){
